@@ -2,63 +2,63 @@
     {
       "image": "https://i.ibb.co/xjs3m7X/Rectangle-2-2.png",
       "title": "Introduction to C Programming",
-      "details": "",
+      "details": "This introductory course in C programming covers the fundamentals of the C language, including variables, data types, control structures, functions, and arrays.",
       "price": 15000,
       "credit_time": 1
     },
     {
       "image": "https://i.ibb.co/qmkrpYg/Rectangle-2-3.png",
       "title": "Introduction to Algorithms",
-      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "details": "This course focuses on the design and analysis of algorithms. Students will learn various algorithmic techniques, such as sorting, searching, and dynamic programming.",
       "price": 25000,
       "credit_time": 2
     },
     {
       "image": "https://i.ibb.co/5RgFRXw/Rectangle-2-4.png",
       "title": "Introduction to C++ for DSA",
-      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "details": "Building upon the C programming foundation, this course introduces students to C++, a powerful and versatile programming language. Topics include classes, objects, inheritance etc.",
       "price": 10000,
       "credit_time": 10
     },
     {
       "image": "https://i.ibb.co/4ZPf3tw/Rectangle-3.png",
       "title": "Basic Data Structures",
-      "details": "This course covers fundamental data structures such as arrays, linked lists, stacks, and queues, as well as more advanced structures like trees, graphs, and hash tables. Prerequisite knowledge in programming is recommended.",
+      "details": "This course covers fundamental data structures such as arrays, linked lists, stacks, and queues, as well as more advanced structures like trees, graphs, and hash tables. Prerequisite knowledge",
       "price": 35000,
       "credit_time": 5
     },
     {
       "image": "https://i.ibb.co/6rjjmtC/Rectangle-2.png",
       "title": "Introduction to OOP Python",
-      "details": "This course introduces students to the principles of object-oriented programming (OOP) using the Python programming language. Topics include classes, objects, inheritance, encapsulation, and polymorphism.",
+      "details": "This course introduces students to the principles of object-oriented programming (OOP) using the Python programming language. Topics include classes, objects, inheritance and polymorphism.",
       "price": 19000,
       "credit_time": 5
     },
     {
       "image": "https://i.ibb.co/GWyszVd/Rectangle-2-5.png",
-      "title": "This course provides a comprehensive overview of the software development process, including requirements analysis, design, coding, testing, and maintenance.",
-      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "title": "Introduction to C++ for DSA",
+      "details": "This course provides a comprehensive overview of the software development process, including requirements analysis, design, coding, testing, and maintenance.",
       "price": 23000,
       "credit_time": 2
     },
     {
       "image": "https://i.ibb.co/pxL7Jg6/Rectangle-3-1.png",
       "title": "AWS, Cloud Computing",
-      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "details": "This course provides a comprehensive introduction to Amazon Web Services (AWS), one of the leading cloud computing platforms.EC2, S3, RDS",
       "price": 35000,
       "credit_time": 5
     },
     {
       "image": "https://i.ibb.co/z51sVGX/Rectangle-2-1.png",
       "title": "Database (MySQL)",
-      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "details": "This MySQL course covers the essentials of database management using MySQL, a popular open-source relational database management system.",
       "price": 19000,
       "credit_time": 5
     },
     {
       "image": "https://i.ibb.co/p0bpXH7/Rectangle-2-6.png",
       "title": "Problem-Solving Part",
-      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "details": "This problem-solving course is designed to enhance analytical and critical thinking skills. It focuses on algorithmic problem-solving techniques and strategies.",
       "price": 23000,
       "credit_time": 2
     }
