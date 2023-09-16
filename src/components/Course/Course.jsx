@@ -8,7 +8,7 @@ const Course = ({course, selectedCourse}) => {
             <img className="w-full" src={image} alt="" />
             <h1 className='text-xl font-semibold'>{title}</h1>
             <p className='text-sm font-normal text-gray-600 leading-[28px]'>{details}</p>
-            <div className='flex gap-4 justify-between text-base text-gray-600 font-medium items-center'>
+            <div className='flex gap-4 text-base text-gray-600 font-medium items-center'>
                 <span>$</span>
                 <span>Price : {price}</span>
                 <span><FaBookOpen></FaBookOpen></span>

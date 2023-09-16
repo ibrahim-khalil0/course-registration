@@ -12,7 +12,7 @@ const Courses = ({selectedCourse}) => {
     }, [])
 
     return (
-            <div className="grid grid-cols-3 gap-6 w-[75%]">
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:w-[75%]">
                 {courses.map((course, idx) => <Course key={idx} 
                 course={course} 
                 selectedCourse={selectedCourse}

@@ -40,7 +40,7 @@ function App() {
     <>
       <Header></Header>
       
-      <main className='w-[90%] mx-auto flex gap-6'>
+      <main className='w-[90%] mx-auto lg:flex gap-6'>
         <Courses selectedCourse={handleSelected}></Courses>
         <Sidebar selected={selected} 
         creditTime={credit} 
