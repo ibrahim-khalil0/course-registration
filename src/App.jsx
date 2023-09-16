@@ -3,6 +3,8 @@ import Header from './components/Header/Header'
 import Courses from './components/Courses/Courses'
 import Sidebar from './components/SideBar/Sidebar'
 import { useState } from 'react'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 
@@ -28,11 +30,11 @@ function App() {
         setTotalPrice(newPrice)
       }
       else{
-        alert('no credit')
+        toast(`Sorry You Have Not Enough Credit Time. You Can Take Maximum 20 Credit Hours. Your Remaining Credit Time is ${remainingCredit} Hours`)
       }
     }
     else{
-      alert('already added')
+      toast('You Already Added This Course')
     }
   }
 
@@ -47,6 +49,7 @@ function App() {
         remainingCredit={remainingCredit}
         totalPrice={totalPrice}
         ></Sidebar>
+        <ToastContainer></ToastContainer>
       </main>
     </>
   )

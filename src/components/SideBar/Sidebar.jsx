@@ -2,7 +2,7 @@ import Selected from "../Selected/Selected";
 
 const Sidebar = ({selected, creditTime, remainingCredit, totalPrice}) => {
     return (
-        <div className="lg:w-[25%] relative">
+        <div className="lg:w-[25%] sm:w-[49%] relative mt-5 lg:mt-0">
             <div className="bg-white rounded-lg p-4 sticky top-0">
                 <h1 className="text-lg font-bold text-[#2F80ED]">Credit Hour Remaining {remainingCredit} hr</h1>
                 <hr className="my-5"/>
