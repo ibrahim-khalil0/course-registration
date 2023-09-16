@@ -14,7 +14,7 @@ const Course = ({course, selectedCourse}) => {
                 <span><FaBookOpen></FaBookOpen></span>
                 <span>Credit : {credit_time}hrs</span>
             </div>
-            <button onClick={ () => selectedCourse(title)} className='bg-[#2F80ED] w-full text-white rounded-xl py-2 font-semibold text-lg'>Select</button>
+            <button onClick={ () => selectedCourse(title, price, credit_time)} className='bg-[#2F80ED] w-full text-white rounded-xl py-2 font-semibold text-lg'>Select</button>
         </div>
     );
 };
